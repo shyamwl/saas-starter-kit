@@ -21,14 +21,14 @@ The goal is simple: install the starter, describe the product you want to build,
 Create a new app with the CLI:
 
 ```bash
-npx @websitelearners/create-saas-app@latest my-app
+npx create-agentic-app@latest my-app
 cd my-app
 ```
 
 Or create the app in the current directory:
 
 ```bash
-npx @websitelearners/create-saas-app@latest .
+npx create-agentic-app@latest .
 ```
 
 Then configure and run the app:
@@ -390,6 +390,6 @@ This project is licensed under the MIT License.
 
 ## Need Help?
 
-- Check the repository issues: [github.com/shyamwl/saas-starter-kit/issues](https://github.com/shyamwl/saas-starter-kit/issues)
+- Check the repository issues: [github.com/leonvanzyl/agentic-coding-starter-kit/issues](https://github.com/leonvanzyl/agentic-coding-starter-kit/issues)
 - Review `AGENTS.md`, `CLAUDE.md`, and `DESIGN.md`
 - Open a new issue with the exact setup steps, error output, and environment details
