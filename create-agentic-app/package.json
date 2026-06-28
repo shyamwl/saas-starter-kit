@@ -1,6 +1,6 @@
 {
   "name": "@websitelearners/create-saas-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold a new agentic SaaS application with Next.js, Better Auth, and AI SDK",
   "type": "module",
   "publishConfig": {
